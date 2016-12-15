@@ -1,0 +1,32 @@
+Initial Value
+    0.4909    0.4893    0.3377    0.9001
+
+Converged Values for Gauss Newton on Precipitation Data
+    0.1454   -3.7869   -0.2921    3.4265
+
+    5.4179
+
+Converged Values for Gauss Newton on High Temperature Data
+   -2.0914 -263.3757  -36.3399   66.5610
+
+  138.2628
+
+Converged Values for Gauss Newton on Low Temperature Data
+  -13.5941   19.5450    5.6771   35.6575
+
+  106.3143
+
+Converged Values for Levenberg-Marquardt on Precipitation Data
+   -0.2491    0.2745   -2.3420    3.3441
+
+    4.8858
+
+Converged Values for Levenberg-Marquardt on  High Temperature Data
+    0.4909    0.4893    0.3377    0.9001
+
+  745.3517
+
+Converged Values for Levenberg-Marquardt on Low Temperature Data
+    0.4909    0.4893    0.3377    0.9001
+
+  469.3517

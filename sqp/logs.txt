@@ -1,0 +1,39 @@
+Log 1:
+SQP Initial Value of Input Vector:
+[-1.8000    1.7000    1.9000   -0.8000   -0.8000]
+
+SQP Initial Value of Lagrange Multipliers:
+[  0 0 0 ]
+
+SQP Method converges to:
+[-2.2692    2.2025         0   -0.0000   -0.0000]
+
+Function Value:
+1
+
+Constraint Vector:
+1.0e-14 *[0   -0.0000    0.1776 ]
+
+SQP Method Lagrange Multipliers Vector
+[ 0 0 0 ]
+
+
+Log 2:
+
+SQP Initial Value of Input Vector
+[]-1.8000    1.7000    1.9000   -0.8000   -0.8000]
+
+SQP Initial Value of Lagrange Multipliers
+[1 1 1]
+
+SQP Method converges to:
+[-1.7171    1.5957    1.8272   -0.7636   -0.7636]
+
+Function Value
+0.0539
+
+Constraint Vector
+[0     0     0]
+
+SQP Method Lagrange Multipliers Vector
+[-0.0402 0.0380 -0.0052]
