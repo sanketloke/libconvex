@@ -1,6 +1,6 @@
 # libconvex
 ======
-- contains optimization subroutines
+Contains implementation for algorithms from Nocedal.
 
 * Line Search Methods
   * Gradient Descent
